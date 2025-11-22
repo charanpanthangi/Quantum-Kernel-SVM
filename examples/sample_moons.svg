@@ -1,0 +1,13 @@
+<svg width="320" height="200" viewBox="0 0 320 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="200" fill="#f8f9fb" />
+  <text x="12" y="24" font-family="Arial" font-size="14" fill="#333">Synthetic two-moons toy dataset</text>
+  <circle cx="110" cy="110" r="52" fill="none" stroke="#1f77b4" stroke-width="8" stroke-linecap="round" />
+  <circle cx="190" cy="80" r="52" fill="none" stroke="#ff7f0e" stroke-width="8" stroke-linecap="round" />
+  <circle cx="140" cy="120" r="6" fill="#1f77b4" />
+  <circle cx="120" cy="130" r="6" fill="#1f77b4" />
+  <circle cx="150" cy="100" r="6" fill="#1f77b4" />
+  <circle cx="200" cy="60" r="6" fill="#ff7f0e" />
+  <circle cx="180" cy="70" r="6" fill="#ff7f0e" />
+  <circle cx="210" cy="90" r="6" fill="#ff7f0e" />
+  <text x="12" y="188" font-family="Arial" font-size="12" fill="#555">Text-based SVG to avoid binary diffs.</text>
+</svg>
